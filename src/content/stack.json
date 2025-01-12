@@ -1,0 +1,26 @@
+[
+  {
+    "key": "PHP",
+    "value": 5
+  },
+  {
+    "key": "Laravel",
+    "value": 5
+  },
+  {
+    "key": "VueJS (SPA)",
+    "value": 5
+  },
+  {
+    "key": "React",
+    "value": 4
+  },
+  {
+    "key": "Wordpress",
+    "value": 5
+  },
+  {
+    "key": "JavaScript / TypeScript",
+    "value": 4
+  }
+]

@@ -1,0 +1,181 @@
+[
+  {
+    "periode": "June 2024 — Present",
+    "job": "MANAGER ONLINE",
+    "company": "Alpinagroup - Alpina Online",
+    "experience": [
+      "Team manager webdevelopement.",
+      "Team manager CRM (ms dynamics).",
+      "Project management.",
+      "HR related and recruitment.",
+      "Sparringpartner within the business.",
+      "UX - Security - Accessibility - A/B test - Automation."
+    ]
+  },
+  {
+    "periode": "June 2023 — June 2024",
+    "job": "FREELANCE LEAD DEVELOPER / PROJECTS LEAD",
+    "company": "Alpinagroup - Alpina Online",
+    "experience": [
+      "Lead developer full-stack.",
+      "Laravel API's & Web applications.",
+      "VueJS, Nuxt, single page app's & websites.",
+      "WordPress development, maintenance and plugins."
+    ]
+  },
+  {
+    "periode": "Juli 2022 — June 2023",
+    "job": "SENIOR FULL STACK DEVELOPER",
+    "company": "UNC INC Digital agency",
+    "experience": [
+      "Senior developer full-stack.",
+      "Laravel API's & web applications",
+      "Drupal, React (headless) websites.",
+      "Lead Developer."
+    ]
+  },{
+    "periode": "March 2020 — Juli 2022",
+    "job": "LEAD DEVELOPER",
+    "company": "Eenvoud Digital agency",
+    "experience": [
+      "Lead developer full-stack.",
+      "Laravel API's & web applications.",
+      "VueJS, Nuxt, single page app's & websites.",
+      "WordPress development, maintenance and plugins.",
+      "Architecture."
+    ]
+  },
+  {
+    "periode": "Mar 2018 — Jan 2024",
+    "job": "PROJECT LEAD",
+    "company": "Niels & Hidde service and support",
+    "experience": [
+      "Co-owner.",
+      "Project management - Administration.",
+      "WordPress development.",
+      "Hosting, -  Maintenance."
+    ]
+  },
+  {
+    "periode": "2018 — 2020",
+    "job": "LEAD DEVELOPER",
+    "company": "Diks verzekeringen",
+    "experience": [
+      "Planning and supervision of the development team.",
+      "Lead in code, UX and planning.",
+      "Development of a REST API (Laravel) with back-office.",
+      "Development of connectors between the API and multiple services.",
+      "Development of multiple single page apps (SPA) in VueJS.",
+      "WordPress development, maintenance and SEO improvements."
+    ]
+  },
+  {
+    "periode": "1999 — 2018",
+    "job": "SENIOR WEB DEVELOPER & DIGITAL PRODUCER",
+    "company": "Atelier Tackenco",
+    "experience": [
+      "Account management.",
+      "Consultancy for multiple clients.",
+      "Lead  in technique, budget, UX and planning.",
+      "Development of websites and applications.",
+      "Maintenance and support."
+    ]
+  },
+  {
+    "periode": "2016 — 2024",
+    "job": "SENIOR WEB DEVELOPER & DIGITAL PRODUCER",
+    "company": "LVT group (CHARLY PR / LVTPR / PROGRESS COMMUNICATIONS / CONTENTBUREAU)",
+    "experience": [
+      "Consultancy for multiple clients.",
+      "Lead  in technique, budget, UX and planning.",
+      "Development of multiple websites.",
+      "Maintenance and support."
+    ]
+  },
+  {
+    "periode": "2016",
+    "job": "SENIOR FRONTEND DEVELOPER",
+    "company": "MACAW / DESPERADOS, HEINEKEN",
+    "experience": [
+      "Development of the Desperados campaign website.",
+      "Frontend  development in Jekyll."
+    ]
+  },
+  {
+    "periode": "2015 — 2016",
+    "job": "SENIOR WEB DEVELOPER & LEAD DEVELOPER",
+    "company": "KEYTOE / BATAVIASTAD.NL",
+    "experience": [
+      "Development of custom WordPress theme.",
+      "Development WordPress custom plugin for Bataviastad clients portal.",
+      "Development of connector for clients portal and the REST API of Bataviastad.",
+      "Teamlead."
+    ]
+  },
+  {
+    "periode": "2015",
+    "job": "SENIOR WEB DEVELOPER",
+    "company": "RADIO 538 / SLAM!FM",
+    "experience": [
+      "Development website 10 years Slam!FM.",
+      "Site including external API’s for live-streams, apps to radio shows and Spotify playlists."
+    ]
+  },
+  {
+    "periode": "2013 — 2014",
+    "job": "WEB DEVELOPER & FILEMAKER-PRO DEVELOPER",
+    "company": "FLORAMEDIA",
+    "experience": [
+      "Architecture and development of the FloraLinQ webapplication.",
+      "Development of the plant finder database — Getty Images-like.",
+      "Filemaker-Pro PHP API connection."
+    ]
+  },
+  {
+    "periode": "2013",
+    "job": "BACKEND DEVELOPER",
+    "company": "BLOEMBOLLENKEURINGSDIENST (BKD) / THE FLOWER BULB INSPECTION SERVICE",
+    "experience": [
+      "Development of quotation module in an existing custom PostgreSQL web application."
+    ]
+  },
+  {
+    "periode": "2006 — 2013",
+    "job": "FILEMAKER-PRO DEVELOPER",
+    "company": "BUMA CULTUUR",
+    "experience": [
+      "Development of Filemaker-Pro CRM system with events planning.",
+      "IT support Amsterdam Dance Event, Eurosonic Noorderslag, InJazz, etc.",
+      "Development of web tools to subscribe to events through REST API.",
+      "Development REST API connection between Filemaker-Pro and webshop."
+    ]
+  },
+  {
+    "periode": "2008",
+    "job": "FILEMAKER-PRO DEVELOPER",
+    "company": "ENDEMOL NEDERLAND",
+    "experience": [
+      "Development of contract management tool for actors employment contracts.",
+      "Development of reporting tool for the financial controller of the holding."
+    ]
+  },
+  {
+    "periode": "1999 — 2012",
+    "job": "FILEMAKER-PRO DEVELOPER",
+    "company": "OP MAAT WONINGAANPASSINGEN",
+    "experience": [
+      "Development of custom CRM system with planning, time-tracking, ordering and invoicing.",
+      "IT maintenance and support.",
+      "Webdevelopment."
+    ]
+  },
+  {
+    "periode": "1996 — 1999",
+    "job": "SOUND DESIGNER",
+    "company": "KAOS BEELD & GELUID",
+    "experience": [
+      "Foley artist, sound editing and mixing.",
+      "Filemaker-Pro development of time-tracking, planning and invoicing application."
+    ]
+  }
+]

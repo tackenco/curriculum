@@ -1,0 +1,34 @@
+[
+  {
+    "key": "Jira / Atlassian",
+    "value": 5
+  },
+  {
+    "key": "Bitbucket",
+    "value": 5
+  },
+  {
+    "key": "GitLab",
+    "value": 5
+  },
+  {
+    "key": "GitHub",
+    "value": 4
+  },
+  {
+    "key": "Monday",
+    "value": 4
+  },
+  {
+    "key": "Sentry",
+    "value": 5
+  },
+  {
+    "key": "MS Office",
+    "value": 5
+  },
+  {
+    "key": "AI (ChatGPT)",
+    "value": 4
+  }
+]
